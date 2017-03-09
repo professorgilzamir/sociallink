@@ -1,2 +1,2 @@
 # sociallink
-An Introductory Python Tutorial
+Um tutorial introdutório sobre Python
